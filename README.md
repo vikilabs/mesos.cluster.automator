@@ -1,4 +1,4 @@
-## SCRIPT TO BRING UP APACHE MESOS ON LOCAL COMPUTE CLUSTER/DATACENTER
+### SCRIPT TO BRING UP APACHE MESOS ON LOCAL COMPUTE CLUSTER/DATACENTER
 
 Apache Mesos enables us to use clusture of computers as one single computer. It helps us to create an elastic distributed systems to run our compute jobs.  
 
